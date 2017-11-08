@@ -15,38 +15,38 @@ Curated list of useful design resources
 
 ## Findig graphical assets
 
-### Colors
+#### Colors
 - [Coolors](https://coolors.co/) | Color generator
 - [Color Hunt](http://colorhunt.co/) | Color palettes
 - [Sip](https://sipapp.io/) | Color picker
 
 
-### Fonts
+#### Fonts
 - [Google Fonts](https://fonts.google.com/) | Find free fonts
 - [My Fonts](https://www.myfonts.com/) | Find licensed fonts
 - [Trendy pair of Google Fonts (2017)](http://fonts.greatsimple.io/) | Find fonts that go well together
 
-### Images / Video
+#### Images / Video
 - [Pexels](https://www.pexels.com/) | Find nice, free & HD pictures
 - [Picsum](https://picsum.photos/) | Placeholder for pictures
 - [Videvo](https://www.videvo.net/) | Free videos
 
 
-### Icons
+#### Icons
 - [Icon store](https://iconstore.co/) | Colorful sets of icons
 - [The noun project](https://thenounproject.com/) |  Flat colored icons
 - [Flaticon](https://www.flaticon.com/) | Find individual icons
 
-### Gradients
+#### Gradients
 - [UI Gradients](https://uigradients.com/) | Colorful gradients
 
-### Code snippets
+#### Code snippets
 - [Code Pen](https://codepen.io/) | Code snippet library
 
 
 ## Articles
 - [Marvelapp Blog](https://blog.marvelapp.com/) | Great design articles
-- [7-steps-to-become-a-ui-ux-designer](
+- [7 steps to become a UI/UX designer](
 https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
-- [the-secret-to-get-steady-freelance-work](https://blog.nicolesaidy.com/the-secret-to-get-steady-freelance-work-68956e248cbe)
+- [The secret to get steady freelance work](https://blog.nicolesaidy.com/the-secret-to-get-steady-freelance-work-68956e248cbe)
 

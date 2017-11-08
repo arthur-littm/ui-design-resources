@@ -1,12 +1,11 @@
 # UI & Design resources
 Curated list of useful design resources
 
----
 ## Before starting
 
 - [Good UI](http://goodui.org/) | Most read before getting into web design
 
----
+
 ## Finding inspiration
 
 - [Dribbble](https://dribbble.com/) | General inspiration
@@ -14,8 +13,8 @@ Curated list of useful design resources
 - [Pages](http://www.pages.xyz/) | Trendy pages designs
 
 
----
 ## Findig graphical assets
+
 ### Colors
 - [Coolors](https://coolors.co/) | Color generator
 - [Color Hunt](http://colorhunt.co/) | Color palettes
@@ -44,8 +43,10 @@ Curated list of useful design resources
 ### Code snippets
 - [Code Pen](https://codepen.io/) | Code snippet library
 
----
+
 ## Articles
+- [Marvelapp Blog](https://blog.marvelapp.com/) | Great design articles
 - [7-steps-to-become-a-ui-ux-designer](
 https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
+- [the-secret-to-get-steady-freelance-work](https://blog.nicolesaidy.com/the-secret-to-get-steady-freelance-work-68956e248cbe)
 

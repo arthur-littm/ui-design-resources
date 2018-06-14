@@ -11,6 +11,7 @@ Curated list of useful design resources
 - [Dribbble](https://dribbble.com/) | General inspiration
 - [Call to idea](http://www.calltoidea.com/) | Components / Pages
 - [Pages](http://www.pages.xyz/) | Trendy pages designs
+- [Code Pen](http://codepen.io/) | Inspiration / Code snippets
 
 
 ## Findig graphical assets

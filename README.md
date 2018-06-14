@@ -50,3 +50,4 @@ Curated list of useful design resources
 https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
 - [The secret to get steady freelance work](https://blog.nicolesaidy.com/the-secret-to-get-steady-freelance-work-68956e248cbe)
 - [Things I wish I'd known when starting UX design](https://blog.marvelapp.com/things-wish-id-known-starting-ux-design/)
+- [Color in UI design](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)

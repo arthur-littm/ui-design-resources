@@ -1,3 +1,5 @@
+Update: this list of resource is now accessible on [Noobesign.xyz](http://www.noobesign.xyz/)
+
 # UI & Design resources
 Curated list of useful design resources
 
